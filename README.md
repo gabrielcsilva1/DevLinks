@@ -1,7 +1,7 @@
 <h1>DevLinks</h1>
 
 ## 💻 Projeto
-DevLinks é um agregador de links para usar como cartão de visitas online.
+Projeto desenvolvido durante o Módulo 2 do Incode da trila de front end. DevLinks é um agregador de links para usar como cartão de visitas online. Contém informações sobre mim, como nome, uma pequena descrição e links para meus perfis em outras redes sociais.
 
 ## 🔗 Link no Github Pages
 https://gabrielcsilva1.github.io/DevLinks/
